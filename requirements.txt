@@ -6,4 +6,5 @@ scipy==1.10.1
 scikit-learn==1.4.2
 firebase_admin==6.5.0
 python-dotenv
+plotly
 
